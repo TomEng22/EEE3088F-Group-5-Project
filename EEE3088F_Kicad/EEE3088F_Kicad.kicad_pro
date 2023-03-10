@@ -475,6 +475,10 @@
     [
       "d0e1c216-fa44-4b75-912a-656721c3051d",
       "SENSOR MODULE"
+    ],
+    [
+      "809c99ee-25ce-42cb-9cb5-d2ddf8d69161",
+      "MicrocontrollerInterface"
     ]
   ],
   "text_variables": {}

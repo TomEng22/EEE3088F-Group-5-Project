@@ -398,7 +398,7 @@
     (pin "2" (uuid 2eb164fa-12e5-4ec1-acf7-59fdafdc0534))
     (pin "3" (uuid 57e3c72f-de32-431a-a788-b361e18c4d61))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "U5") (unit 1)
         )
@@ -423,7 +423,7 @@
     )
     (pin "1" (uuid d243c232-b9c4-4274-b65f-64d224166751))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR04") (unit 1)
         )
@@ -450,7 +450,7 @@
     (pin "2" (uuid 22652d07-bd25-44d5-8f50-4b1fe246c6e5))
     (pin "3" (uuid 61e87ca9-c892-47b4-b5a2-c07819acf7d1))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "U6") (unit 1)
         )
@@ -506,7 +506,7 @@
     (pin "7" (uuid 8b99e39c-71ec-44e3-9926-b4c13f15035f))
     (pin "8" (uuid 874ecf6e-e441-41ca-ae10-a56ebdeef1e3))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "IC1") (unit 1)
         )
@@ -531,7 +531,7 @@
     )
     (pin "1" (uuid 47574160-84f8-4535-9a10-f617badd897d))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR06") (unit 1)
         )
@@ -556,7 +556,7 @@
     )
     (pin "1" (uuid 62f29123-1828-450d-b160-34017d57e541))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR01") (unit 1)
         )
@@ -581,7 +581,7 @@
     )
     (pin "1" (uuid fccb14e1-3a1f-4036-b7b7-4282ab8b9df6))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR02") (unit 1)
         )
@@ -607,7 +607,7 @@
     (pin "1" (uuid 3606881a-f646-4f1a-866b-dbb3abc6a261))
     (pin "2" (uuid 37b9232f-d00a-4873-9636-faf45ea697b4))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "C1") (unit 1)
         )
@@ -632,7 +632,7 @@
     )
     (pin "1" (uuid 916baa3f-e74c-40af-9be7-4dfdf336b764))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR05") (unit 1)
         )
@@ -657,10 +657,27 @@
     )
     (pin "1" (uuid a51b5e8f-8f2e-47a8-8d23-32b19abb91e0))
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56"
           (reference "#PWR03") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 46.99 48.26) (size 74.93 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 809c99ee-25ce-42cb-9cb5-d2ddf8d69161)
+    (property "Sheetname" "MicrocontrollerInterface" (at 46.99 47.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MicrocontrollerInterface.kicad_sch" (at 46.99 88.2146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56" (page "3"))
       )
     )
   )
@@ -676,7 +693,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "Sensor Modules"
+      (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56" (page "2"))
       )
     )
