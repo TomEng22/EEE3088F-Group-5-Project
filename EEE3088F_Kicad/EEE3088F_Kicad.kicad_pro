@@ -479,6 +479,10 @@
     [
       "809c99ee-25ce-42cb-9cb5-d2ddf8d69161",
       "MicrocontrollerInterface"
+    ],
+    [
+      "6f6b2814-72e8-441f-bffa-ad445c44fe69",
+      "Power"
     ]
   ],
   "text_variables": {}
