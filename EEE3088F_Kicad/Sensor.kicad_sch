@@ -1132,7 +1132,7 @@
   (symbol (lib_id "Device:R") (at 93.98 82.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9266068c-ea84-4e24-a411-16cf5cff1067)
-    (property "Reference" "R8" (at 99.06 83.82 0)
+    (property "Reference" "R41" (at 99.06 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7k" (at 99.06 81.28 0)
@@ -1149,7 +1149,7 @@
     (instances
       (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
-          (reference "R8") (unit 1)
+          (reference "R41") (unit 1)
         )
       )
       (project "Sensor"
@@ -1327,7 +1327,7 @@
   (symbol (lib_id "Device:R") (at 91.44 80.01 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfab8a81-8101-4a76-9bf3-074ad0f99ee6)
-    (property "Reference" "R8" (at 88.9 80.645 0)
+    (property "Reference" "R40" (at 88.9 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7k" (at 88.9 78.74 0)
@@ -1344,7 +1344,7 @@
     (instances
       (project "EEE3088F_Kicad"
         (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
-          (reference "R8") (unit 1)
+          (reference "R40") (unit 1)
         )
       )
       (project "Sensor"
