@@ -686,6 +686,11 @@
     (pin "1" (uuid d6c79c38-24ff-4e1e-b29a-a255af5b028b))
     (pin "2" (uuid f71cc1a5-7596-4268-91ca-d17e31911dc3))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R10") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R10") (unit 1)
@@ -712,6 +717,11 @@
     (pin "1" (uuid 2fca4968-3997-4d84-868c-0c18526ba050))
     (pin "2" (uuid 531dcc4f-ba98-434d-9636-0a9f58393752))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R1") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R1") (unit 1)
@@ -771,6 +781,11 @@
     (pin "1" (uuid 01c07822-eb1d-4ab3-902c-15f1a5af69a7))
     (pin "2" (uuid 1d56eefb-47a4-46e9-b9fc-70e7cffc61f7))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R3") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R3") (unit 1)
@@ -796,6 +811,11 @@
     )
     (pin "1" (uuid fdf8fe55-2268-4415-a24b-bbb888d27e8b))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "TP4") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "TP4") (unit 1)
@@ -886,6 +906,11 @@
     (pin "1" (uuid fc30c9de-1d6a-4fd0-8264-7adc05a88656))
     (pin "2" (uuid b134cb57-794a-4443-83b7-dfa361618e74))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R9") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R9") (unit 1)
@@ -911,6 +936,11 @@
     )
     (pin "1" (uuid f3ffdb4c-13e6-44e5-9c7c-ecae198c43af))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "TP3") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "TP3") (unit 1)
@@ -1004,6 +1034,11 @@
     (pin "1" (uuid 9ee9b5a1-139c-4c23-86af-fad33bf0623a))
     (pin "2" (uuid eea71e8b-fbb0-4c52-92f7-b9c724511f9a))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R4") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R4") (unit 1)
@@ -1029,6 +1064,11 @@
     )
     (pin "1" (uuid 0a7ec492-7cca-496f-ab6b-0fab9d90c8df))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "TP6") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "TP6") (unit 1)
@@ -1054,6 +1094,11 @@
     )
     (pin "1" (uuid d707e0fa-ed9b-48ea-9ecb-e85a9ebbec5d))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "TP5") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "TP5") (unit 1)
@@ -1147,6 +1192,11 @@
     (pin "1" (uuid 2cb16cc6-c933-4768-8c97-dbcaebbec549))
     (pin "2" (uuid 3bd46b60-e1c4-4c75-b18f-d4656561c574))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R6") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R6") (unit 1)
@@ -1205,6 +1255,11 @@
     )
     (pin "1" (uuid b054bd94-876f-40d9-b45b-22934a0f2de4))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "J2") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "J2") (unit 1)
@@ -1231,6 +1286,11 @@
     (pin "1" (uuid e3073ba9-63db-4497-8d1b-700352ffdfd3))
     (pin "2" (uuid 1f4fd319-4843-4690-993e-ef25a9639d6a))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R2") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R2") (unit 1)
@@ -1291,6 +1351,11 @@
     )
     (pin "1" (uuid 22477144-a9c6-44fe-9bc2-61244785960e))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "TP2") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "TP2") (unit 1)
@@ -1351,6 +1416,11 @@
     )
     (pin "1" (uuid d1dde577-8d08-4817-82a0-75f76eea4123))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "J4") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "J4") (unit 1)
@@ -1377,6 +1447,11 @@
     (pin "1" (uuid 77ef6ecc-5703-49e1-8e11-770961b6d233))
     (pin "2" (uuid 7ee3c47f-2ffb-4080-a0db-2aabd5c630dd))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R7") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R7") (unit 1)
@@ -1403,6 +1478,11 @@
     (pin "1" (uuid cef8489a-db37-4f0e-88e0-e7d3632781ed))
     (pin "2" (uuid f6938b98-81ae-435a-bcbf-24b487bbfe66))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R8") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R8") (unit 1)
@@ -1428,6 +1508,11 @@
     )
     (pin "1" (uuid d06764bf-3b5d-4842-a66d-a43d7482594f))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "J1") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "J1") (unit 1)
@@ -1487,6 +1572,11 @@
     (pin "1" (uuid 845945f3-9d88-4fdb-8051-88a7c0e526c8))
     (pin "2" (uuid bd562b96-bb39-4153-91aa-674c3f0871f5))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "J3") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "J3") (unit 1)
@@ -1513,6 +1603,11 @@
     (pin "1" (uuid c1b804e9-ee71-4da4-b2db-507a884569c9))
     (pin "2" (uuid 29a34547-f297-4acf-a61a-5727a2e154f6))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "J5") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "J5") (unit 1)
@@ -1539,6 +1634,11 @@
     (pin "1" (uuid a1e731fc-eaa2-4edc-a955-d31af5e215f0))
     (pin "2" (uuid 7214596e-5331-4fdb-877b-d01e5c1b0fb7))
     (instances
+      (project "EEE3088F_Kicad"
+        (path "/6f03c876-746d-4bbb-b455-2f8bb16ffc56/d0e1c216-fa44-4b75-912a-656721c3051d"
+          (reference "R5") (unit 1)
+        )
+      )
       (project "Sensor"
         (path "/bd322b28-93df-417b-951b-ff2210130ef6"
           (reference "R5") (unit 1)
